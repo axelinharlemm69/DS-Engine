@@ -1,26 +1,8 @@
 # Friday Night Funkin' - DS Engine
 Engine originally based on PE Engine(0.7.1h) this engine improves fps gameplay and etc.
-
-## Installation:
-You must have [Haxe version 4.2.5](https://haxe.org/download/version/4.2.5/), seriously, stop using older or newer versions, it won't work!
-
-open up a Command Prompt/PowerShell or Terminal, type `haxelib install hmm`
-
-after it finishes, simply type `haxelib run hmm install` in order to install all the needed libraries for *Psych Engine!*
-
-If the compiler gives an error saying that hxCodec cannot be found read this issue to fix it: ShadowMario/FNF-PsychEngine#12770
-
-## Customization:
-
-if you wish to disable things like *Lua Scripts* or *Video Cutscenes*, you can read over to `Project.xml`
-
-inside `Project.xml`, you will find several variables to customize Psych Engine to your liking
-
-to start you off, disabling Videos should be simple, simply Delete the line `"VIDEOS_ALLOWED"` or comment it out by wrapping the line in XML-like comments, like this `<!-- YOUR_LINE_HERE -->`
-
-same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, this and other customization options are all available within the `Project.xml` file 
 ## DS Engine Team:
 * NatsukiDeveloper - Main Coder and etc.
+* Stefan2008 - Some Codes(stealed lololol,and thanks to him)
 ## PE Engine Team(thanks):
 * Shadow Mario - Programmer
 * RiverOaken - Artist
