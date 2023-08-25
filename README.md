@@ -20,7 +20,7 @@ Engine originally based on PE Engine(0.7.1h) this engine improves fps gameplay a
 * Nebula the Zorua - LUA JIT Fork and some Lua reworks
 _____________________________________
 
-# Features
+# Psych Engine Features:
 
 ## Attractive animated dialogue boxes:
 
